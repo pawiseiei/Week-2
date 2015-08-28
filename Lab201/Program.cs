@@ -1,5 +1,6 @@
 using System;
 
+
 namespace Lab201
 {
 	class MainClass
