@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\pawis2\lab2\Lab202\bin\Debug\Lab202.exe
+C:\Users\ACER\Desktop\pawis2\lab2\Lab202\bin\Debug\Lab202.pdb
+C:\Users\ACER\Desktop\pawis2\lab2\Lab202\obj\Debug\Lab202.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\pawis2\lab2\Lab202\obj\Debug\Lab202.exe
+C:\Users\ACER\Desktop\pawis2\lab2\Lab202\obj\Debug\Lab202.pdb
